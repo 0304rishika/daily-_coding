@@ -60,6 +60,3 @@
 //ans)primitive data types: stored directly by value
 //    object data types: stored by reference, and can have properties and methods. 
 //                       Examples: Array, Function, Object.
-
-
-
