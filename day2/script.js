@@ -4,10 +4,12 @@ let a = 5;
 const b = 10;
 var c = 15;
 
-leta = 20; // error
-constb = 25; //error
+let a = 20; // error
+const b = 25; //error
 var c = 30; //error
-//  output:Error
+ 
+console.log(a,b);
+console.log(c);
 
 
 2.
