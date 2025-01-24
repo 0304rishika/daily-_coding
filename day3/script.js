@@ -60,3 +60,93 @@
 //ans)primitive data types: stored directly by value
 //    object data types: stored by reference, and can have properties and methods. 
 //                       Examples: Array, Function, Object.
+
+
+//1.Write a program to check if a number is a primitive type or not.
+//ans)
+let a = 42;
+if (typeof a == "number")
+   {
+  console.log("The value is a primitive number.");
+} 
+else {
+  console.log("The value is not a primitive number.");
+}
+
+//2.Declare a variable with a string value and print its type using typeof.
+//ans)
+let b = "Hello, World!";
+console.log(typeof b); 
+
+
+
+//3.Write a program to add two numbers and print their result.
+//let num1 = 5;
+//let num2 = 10;
+//ans)
+let num1 = 5;
+let num2 = 10;
+let sum = num1 + num2;
+console.log("sum is:", sum);
+
+
+
+//4.Write a program to convert a string to a number and add 10 to it.
+//let str = "20";
+//ans)
+
+//5.Create a program to check if a variable is undefined or not.
+//ans)
+let value;
+if (typeof value === "undefined") {
+    console.log("The variable is undefined.");
+} else {
+    console.log("The variable is defined.");
+}
+
+//6.Write a program to compare null and undefined using == and ===. Explain the output.
+//ans)
+let x = null;
+let y = undefined;
+
+console.log(x == y);  
+console.log(x === y); 
+
+//7.Create a program to check if a given value is a BigInt.
+//ans)
+let z = 123456789012345678901234567890n;
+if (typeof z === "bigint") 
+  {
+    console.log("The value is a BigInt.");
+} else 
+{
+    console.log("The value is not a BigInt.");
+}
+
+//8.let num = 123456789012345678901234567890n;
+//ans)
+let c = 123456789012345678901234567890n;
+console.log("num is:", c);
+
+//9.Write a program to find the length of a string.
+//let name = "JavaScript";
+//ans)
+let d = "JavaScript";
+console.log(" length of a string is:",d);
+
+//10.Write a program to check if a variable is a Boolean.
+//let isAvailable = true;
+//ans)
+let isAvailable = true;
+if (typeof isAvailable == "boolean") {
+    console.log("The variable is a Boolean.");
+} else 
+{
+    console.log("The variable is not a Boolean.");
+}
+
+//11.Write a program to create a Symbol and log its type.
+//ans)
+let s = Symbol;
+console.log(typeof s); 
+
