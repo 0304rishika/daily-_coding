@@ -28,13 +28,13 @@ console.log(s>r);
 // Use && to check if true AND false are both true.
 let t =true;
 let i = true;
-console.log(t && i);
+console.log(t && i);// answer=true
 
 // Logical OR (||)
 // Use || to check if either false OR true is true.
 let h = true;
 let l = false;
-console.log(h || l);
+console.log(h || l);//answer=true
 
 // Logical NOT (!)
 // Use ! to invert the value of true
