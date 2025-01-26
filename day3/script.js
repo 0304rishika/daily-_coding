@@ -138,7 +138,7 @@ console.log(" length of a string is:",d);
 //let isAvailable = true;
 //ans)
 let isAvailable = true;
-if (typeof isAvailable == "boolean") {
+if (typeof isAvailabe == "boolean") {
     console.log("The variable is a Boolean.");
 } else 
 {
@@ -148,5 +148,4 @@ if (typeof isAvailable == "boolean") {
 //11.Write a program to create a Symbol and log its type.
 //ans)
 let s = Symbol;
-console.log(typeof s); 
-
+console.log(typeof s);
