@@ -34,8 +34,8 @@
 //ans)output:passed
 
 // 6.Write a program to check if the time is greater than or equal to 12 PM. If true, print "Afternoon."
-//ans) let time=1pm;
-//     if (time>= 12) {
+//ans) let t=1pm;
+//     if (t>= 12) {
 //     console.log("Afternoon");
 //   } 
 
@@ -94,7 +94,7 @@
 
 // 15.Write a program to check if a person is eligible to vote. If the person is 18 or older, print "Eligible to vote"; otherwise, print "Not eligible to vote."
 //ans)let a = 19;
-//   if (age >= 18) {
+//   if (a >= 18) {
 //   console.log("eligible to vote");
 //   } else {
 //   console.log("Not eligible to vote");
@@ -182,13 +182,13 @@
 //         console.log("Grade C");
 //     }
 // }
-//ans)output:Grade B
+
 
 // 27.Write a program to check if a person is eligible for a discount (age between 13 and 25). If eligible, check if the person has a student ID. If both conditions are true, print "Eligible for discount"; otherwise, print "Not eligible for discount."
 
 // 28.Write a program to check if a number is greater than or equal to 100 and if it is also divisible by 10. If both conditions are true, print "Large and divisible by 10"; otherwise, print "Either not large or not divisible by 10."
 //ans)let n = 120;
-//     if (number >= 100) {
+//     if (n >= 100) {
 //     console.log("Large and divisible by 10");
 //     } else {
 //     console.log("Either not large or not divisible by 10");
@@ -206,8 +206,6 @@
 // } else {
 //     console.log("Good Morning");
 // }
-//ans)
-
 
 // let number = 0;
 // if (number > 0) {
@@ -218,10 +216,10 @@
 //ans) output:Positive number 
 
 // 30.Write a program to check if a number is greater than 50. If it is, print "Above 50"; otherwise, print "50 or below."
-// ans)let number = 45; 
-//    if (number > 50) {
-//    console.log("Above 50.");
+// ans)let r= 45; 
+//    if (r > 50) {
+//    console.log("Above 50");
 //    } else {
-//   console.log("50 or below.");
+//   console.log("50 or below");
 //    }
 
