@@ -150,6 +150,7 @@
 // } else {
 //     console.log("Not an adult");
 // }
+//ans) output:adult but not eligible to drink
 
 // 22.Write a program to check if a number is greater than 0 and divisible by 5. If both conditions are true, print "Positive and divisible by 5"; otherwise, print "Either not positive or not divisible by 5."
 
@@ -167,6 +168,7 @@
 // } else {
 //     console.log("It's cool outside!");
 // } 
+//output:it's hot outside
 
 // 25.Write a program to check if a person is eligible for senior citizen benefits (age 60 or above). If the person is eligible, check if the person is a resident of the country. If both conditions are true, print "Eligible for benefits"; otherwise, print "Not eligible."
 
@@ -182,6 +184,7 @@
 //         console.log("Grade C");
 //     }
 // }
+//ans)output:grade B
 
 
 // 27.Write a program to check if a person is eligible for a discount (age between 13 and 25). If eligible, check if the person has a student ID. If both conditions are true, print "Eligible for discount"; otherwise, print "Not eligible for discount."
@@ -206,6 +209,7 @@
 // } else {
 //     console.log("Good Morning");
 // }
+//ANS)Output:good afternoon
 
 // let number = 0;
 // if (number > 0) {
